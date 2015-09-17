@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="polblogs.gml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/org/gephi/toolkit/demos/resources/polblogs.gml.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

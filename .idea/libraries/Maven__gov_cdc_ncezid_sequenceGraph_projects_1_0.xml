@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: gov.cdc.ncezid:sequenceGraph-projects:1.0">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/gov/cdc/ncezid/sequenceGraph-projects/1.0/sequenceGraph-projects-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/gov/cdc/ncezid/sequenceGraph-projects/1.0/sequenceGraph-projects-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/gov/cdc/ncezid/sequenceGraph-projects/1.0/sequenceGraph-projects-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
