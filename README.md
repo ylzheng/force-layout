@@ -1,12 +1,12 @@
-Gephi-ForceLayout
+##Gephi-ForceLayout
 To run this jar file, Java 1.7 should be used.
 
-Usage:
+##Usage:
 java -jar gephi-toolkit-demos2-1.0-SNAPSHOT-jar-with-dependencies.jar input_seq.fas input_vector.csv output1.txt output2.txt output3.txt output_graph.gml output_hcv.json output.pdf
 output_hcv.json file will be used in the d3-force layout visualization
 
-Usage example:
-java -jar gephi-toolkit-demos2-1.0-SNAPSHOT-jar-with-dependencies.jar /scicomp/home/yqb7/allData/hepatitis/kstep/test2/AMC_P01_1b.fas /scicomp/home/yqb7/allData/hepatitis/kstep/test2/AMC_P01_1b_vector.csv /scicomp/home/yqb7/allData/hepatitis/kstep/test2/output_aligned1.txt /scicomp/home/yqb7/allData/hepatitis/kstep/test2/trueSame1.txt /scicomp/home/yqb7/allData/hepatitis/kstep/test2/falseSame1.txt /scicomp/home/yqb7/allData/hepatitis/kstep/test2/graph.gml /scicomp/home/yqb7/allData/hepatitis/kstep/Illumina/hcv.json /scicomp/home/yqb7/allData/hepatitis/kstep/Illumina/hcv.json /scicomp/home/yqb7/allData/hepatitis/kstep/autolayout.pdf
+##Usage example:
+java -jar gephi-toolkit-demos2-1.0-SNAPSHOT-jar-with-dependencies.jar AMC_P01_1b.fas AMC_P01_1b_vector.csv output_aligned1.txt trueSame1.txt falseSame1.txt /scicomp/home/yqb7/allData/hepatitis/kstep/test2/graph.gml hcv.json autolayout.pdf
 
 
 
