@@ -1,16 +1,15 @@
-# Gephi Toolkit Demos
+Gephi-ForceLayout
+To run this jar file, Java 1.7 should be used.
 
-The Gephi Toolkit project package essential modules (Graph, Layout, Filters, IO...) in a standard Java library, which any Java project can use for getting things done.
+Usage:
+java -jar gephi-toolkit-demos2-1.0-SNAPSHOT-jar-with-dependencies.jar input_seq.fas input_vector.csv output1.txt output2.txt output3.txt output_graph.gml output_hcv.json output.pdf
+output_hcv.json file will be used in the d3-force layout visualization
 
-The toolkit is just a single JAR that anyone could reuse in a Java program. This tutorial aims to introduce the project, show possibilities and start write some code.
+Usage example:
+java -jar gephi-toolkit-demos2-1.0-SNAPSHOT-jar-with-dependencies.jar /scicomp/home/yqb7/allData/hepatitis/kstep/test2/AMC_P01_1b.fas /scicomp/home/yqb7/allData/hepatitis/kstep/test2/AMC_P01_1b_vector.csv /scicomp/home/yqb7/allData/hepatitis/kstep/test2/output_aligned1.txt /scicomp/home/yqb7/allData/hepatitis/kstep/test2/trueSame1.txt /scicomp/home/yqb7/allData/hepatitis/kstep/test2/falseSame1.txt /scicomp/home/yqb7/allData/hepatitis/kstep/test2/graph.gml /scicomp/home/yqb7/allData/hepatitis/kstep/Illumina/hcv.json /scicomp/home/yqb7/allData/hepatitis/kstep/Illumina/hcv.json /scicomp/home/yqb7/allData/hepatitis/kstep/autolayout.pdf
 
-## Use this demos:
 
-- Open the project in Netbeans IDE.
-- Each demo is independent from each other.
-- Run demos by calling script() method.
-- Change the main class to execute a demo
-- Be sure the Toolkit Javadoc is loaded in the Netbeans Project, or load it from lib/ folder.
+
 
 ## References:
 
