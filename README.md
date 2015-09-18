@@ -1,4 +1,4 @@
-##Gephi-ForceLayout
+#Gephi-ForceLayout
 To run this jar file, Java 1.7 should be used.
 
 ##Usage:
